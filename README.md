@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![taonce's github stats](https://github-readme-stats.vercel.app/api?username=taonce&show_icons=true&theme=radical
+[![taonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=taonce)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Taonce/Taonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
